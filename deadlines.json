@@ -347,7 +347,7 @@
     "nav": "Press 1 - Go to work",
     "win": 0,
     "loose": 0,
-    "stranger": 0,
+    "stranger": 1,
     "kitty": 0
   },
   {
